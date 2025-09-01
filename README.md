@@ -28,7 +28,7 @@ Python/ # Código Python de la calculadora
 - Calc.java → Clase principal que ejecuta la calculadora.
 - EvalVisitor.java → Implementación de la evaluación de expresiones.
 - LabeledExpr*.java → Archivos generados por ANTLR4 (Lexer, Parser, Visitor, Listener).
-- LabeledExpr.g4 → Gramática ANTLR4 usada para generar los archivos Java.
+- LabeledExpr.g4 → Gramática ANTLR4 usada para generar los archivos Java. (aqui estan los Tokens de la calculadora)
 - *.class → Archivos compilados.
 - test.calc → Archivo de ejemplo para pruebas.
 
